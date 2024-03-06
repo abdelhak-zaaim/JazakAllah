@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "phrase": "سبحان الله",
+      "translation": "المجد لله",
+      "arabic": "سبحان الله"
+    },
+    {
+      "phrase": "الحمد لله",
+      "translation": "الحمد لله",
+      "arabic": "الحمد لله"
+    },
+    {
+      "phrase": "الله أكبر",
+      "translation": "الله أكبر",
+      "arabic": "الله أكبر"
+    },
+    {
+      "phrase": "أستغفر الله",
+      "translation": "أستغفر الله",
+      "arabic": "أستغفر الله"
+    },
+    {
+      "phrase": "ما شاء الله",
+      "translation": "ما شاء الله",
+      "arabic": "ما شاء الله"
+    },
+    {
+      "phrase": "يا الله",
+      "translation": "يا الله",
+      "arabic": "يا الله"
+    }
+  ]
+}

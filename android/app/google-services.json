@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097219277459",
+    "project_id": "islam-way-6f318",
+    "storage_bucket": "islam-way-6f318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097219277459:android:b067cf38ba118ec9820366",
+        "android_client_info": {
+          "package_name": "com.islamway.islamway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxi2KGGheLxkeBMo6hpJtc9FpPU4jpWh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+{
+  "data" : [
+    {
+      "phrase": "Subhan Allah",
+      "translation": "Glory be to Allah.",
+      "arabic": "سبحان الله"
+    },
+    {
+      "phrase": "Alhamdulillah",
+      "translation": "Praise be to Allah.",
+      "arabic": "الحمد لله"
+    },
+    {
+      "phrase": "Allahu Akbar",
+      "translation": "Allah is the Greatest.",
+      "arabic": "الله أكبر"
+    },
+    {
+      "phrase": "Astaghfirullah",
+      "translation": "I seek forgiveness from Allah.",
+      "arabic": "أستغفر الله"
+    },
+    {
+      "phrase": "Masha Allah",
+      "translation": "Whatever Allah wills.",
+      "arabic": "ما شاء الله"
+    },
+    {
+      "phrase": "Ya Allah",
+      "translation": "O Allah.",
+      "arabic": "يا الله"
+    }
+  ]
+}
